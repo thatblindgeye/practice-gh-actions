@@ -1,0 +1,23 @@
+{
+  "name": "practice-gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir -p dist && cp index.js dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatblindgeye/practice-gh-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatblindgeye/practice-gh-actions/issues"
+  },
+  "homepage": "https://github.com/thatblindgeye/practice-gh-actions#readme",
+  "release": {
+    "branches": "main"
+  }
+}
